@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vangelova89
 - 👀 I’m interested in backend coding
-- 🌱 I’m currently learning algo trading in python
+- 🌱 I’m currently learning solidity and web3
 - 📫 How to reach me hi@vangelova.com
 
 <!---
